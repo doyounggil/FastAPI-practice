@@ -1,0 +1,26 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.so
+
+# Poetry virtual environments
+.env
+.venv
+poetry.lock
+*.egg-info/
+dist/
+build/
+
+# macOS
+.DS_Store
+
+# VSCode
+.vscode/
+
+# Python virtual environment (if any)
+.venv/
+.env/
+
+# MySQL data (optional)
+*.sql
+*.db
